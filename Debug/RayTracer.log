@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\rudraksha\documents\projects\raytracer\utilities.h(5): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  RayTracer.vcxproj -> C:\Users\Rudraksha\Documents\Projects\RayTracer\Debug\RayTracer.exe
+  RayTracer.vcxproj -> C:\Users\Rudraksha\Documents\Projects\RayTracer\Debug\RayTracer.pdb (Full PDB)
