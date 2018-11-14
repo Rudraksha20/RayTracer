@@ -1,4 +1,9 @@
 ﻿  Main.cpp
-c:\users\rudraksha\documents\projects\raytracer\utilities.h(5): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\rudraksha\documents\projects\raytracer\hitable.h(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\rudraksha\documents\projects\raytracer\hitable.h(50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\rudraksha\documents\projects\raytracer\utilities.h(14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\rudraksha\documents\projects\raytracer\main.cpp(62): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rudraksha\documents\projects\raytracer\main.cpp(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\rudraksha\documents\projects\raytracer\main.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
   RayTracer.vcxproj -> C:\Users\Rudraksha\Documents\Projects\RayTracer\Debug\RayTracer.exe
   RayTracer.vcxproj -> C:\Users\Rudraksha\Documents\Projects\RayTracer\Debug\RayTracer.pdb (Full PDB)

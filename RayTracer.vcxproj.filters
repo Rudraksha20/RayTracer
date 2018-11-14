@@ -18,12 +18,6 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sphere.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="HitableList.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ray.h">
@@ -33,9 +27,6 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Sphere.h">
-      <Filter>Source Files</Filter>
-    </ClInclude>
-    <ClInclude Include="HitableList.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Utilities.h">

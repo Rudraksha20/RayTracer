@@ -1,4 +1,5 @@
-#pragma once
+#ifndef RAYH
+#define RAYH
 #include <glm/vec3.hpp>
 #include <glm/matrix.hpp>
 
@@ -30,3 +31,5 @@ public:
 		return point;
 	}
 };
+
+#endif
